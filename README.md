@@ -14,6 +14,8 @@
 
 #### Community Managers
 <a href="https://github.com/peterko5236" target="_blank"><img src="https://user-images.githubusercontent.com/16909821/45495669-aaa60680-b7ae-11e8-8f92-2697303ea9b8.jpg" width=64></a>&nbsp;&nbsp;
+<a href="https://github.com/higee" target="_blank"><img src="https://user-images.githubusercontent.com/16909821/45495699-b8f42280-b7ae-11e8-9d77-118a2447ff77.jpeg" width=64></a>
 <a href="https://github.com/dongjinleekr" target="_blank"><img src="https://user-images.githubusercontent.com/16909821/45495702-babde600-b7ae-11e8-8436-34f22c84bfad.jpg" width=64></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/jihyeong.ryu.39?" target="_blank"><img src="https://user-images.githubusercontent.com/16909821/45495693-b5609b80-b7ae-11e8-9c2e-caa0a3b5550a.jpg" width=64></a>&nbsp;&nbsp;
-<a href="https://github.com/higee" target="_blank"><img src="https://user-images.githubusercontent.com/16909821/45495699-b8f42280-b7ae-11e8-9d77-118a2447ff77.jpeg" width=64></a>
+<a href="https://www.facebook.com/sstrato.kong" target="_blank"><img src="https://user-images.githubusercontent.com/16909821/45528934-94835f00-b81d-11e8-9c32-7647241c90cc.jpg" width=64></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/babokim" target="_blank"><img src="https://user-images.githubusercontent.com/16909821/45528872-56863b00-b81d-11e8-99c5-b0fdb3e00b9d.jpg" width=64></a>&nbsp;&nbsp;
