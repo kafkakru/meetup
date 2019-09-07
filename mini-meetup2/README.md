@@ -9,5 +9,5 @@
   * 김현준 : Kafka를 활용한 캐시 로그 처리
   * 이은학 : Kafka를 활용한 Elasticsearch 실무프로젝트 소개
   * 정원빈 : Kafka를 활용한 rabbitmq 로그 처리
-	* 이동진 : Kafka-Streams-Interactive-Queries
-	* 강한구 : Kafka 프로듀서 & 컨슈머
+  * 이동진 : Kafka-Streams-Interactive-Queries
+  * 강한구 : Kafka 프로듀서 & 컨슈머
