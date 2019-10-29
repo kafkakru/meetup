@@ -9,7 +9,7 @@
 
 #### Community
 
-* [Facebook Group](https://www.facebook.com/groups/kafkakorea/)
+* [Facebook Group](http://facebook.kafkakru.com)
 * ~~Slack (coming soon, maybe)~~
 
 #### Community Managers

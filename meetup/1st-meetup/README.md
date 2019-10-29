@@ -1,18 +1,18 @@
 #### About 1st Meetup
 ---
-* Date : 2018-09-08 (Saturday) 
+* Date : 2018-09-08 (Saturday)
 * Time : 14:00 ~ 18:00 Korea Standard Time
 * Venue : Microsoft Korea
 * Attendees : 30+
 * Speakers
-    * 이기화 : [Data Pipeline @KakaoStory](https://github.com/Kafka-Korea-User/meetup/blob/develop/meetup1/1.Kakaostory_data_pipeline_v20180908.pdf)
-    * 강대명 : [별쓸모없는이야기 Spark, 그리고 Kafka timestamp offset](https://github.com/Kafka-Korea-User/meetup/blob/develop/meetup1/2.%EB%B3%84-%EC%93%B8%EB%AA%A8-%EC%97%86%EB%8A%94-Spark-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Kafka-timestamp-offset.pdf)
-    * 이동진 : [Testing Kafka Streams Applications](https://github.com/Kafka-Korea-User/meetup/blob/develop/meetup1/3.Testing_Kafka_Streams_Applications.pdf)
-    * 문규원 : [Kafka 활용 비동기 시스템 구성](https://github.com/Kafka-Korea-User/meetup/blob/develop/meetup1/4.%EC%B9%B4%ED%94%84%EC%B9%B4%20%ED%99%9C%EC%9A%A9-%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1.pdf)
-    * 류지형 : [Kafka 사용 사례](https://github.com/Kafka-Korea-User/meetup/blob/develop/meetup1/5.Kafka-%EC%82%AC%EC%9A%A9%EC%82%AC%EB%A1%80.pdf)
+    * 이기화 : [Data Pipeline @KakaoStory]
+    * 강대명 : [별쓸모없는이야기 Spark, 그리고 Kafka timestamp offset]
+    * 이동진 : [Testing Kafka Streams Applications]
+    * 문규원 : [Kafka 활용 비동기 시스템 구성]
+    * 류지형 : [Kafka 사용 사례]
 * Questions
   &nbsp;
-  
+
   ```
   - 람다 아키텍처와 카파 아키텍처의 장단점 좀 알려주실 수 있을까요?
   - 질문 타임 인덱스는 프로듀서가 넣어주는게 맞나요? 로그스태시가 타임 인덱스를 넣어주지 않는다고 하는데, 추가하려면 어떻게 하는지 간략하게 설명좀 부탁합니다.
